@@ -1,0 +1,26 @@
+.feedcont{
+    display: flex;
+    height: 10px;
+  width: 209vh;
+
+
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+  
+}
+.headingcont{
+
+    text-align: center;
+    margin-top: 50px;
+}
+.arrow:hover{
+    background: orangered;
+    color: white;
+    transition: 0.5;
+
+}
+.arowback:hover{
+    color: white;
+}
+
